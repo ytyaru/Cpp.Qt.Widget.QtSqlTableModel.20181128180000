@@ -1,8 +1,9 @@
 ﻿# このソフトウェアについて
 
-　Qt5学習。QtでSQLite3を使う。QtSqlTableModelを使用した。
+　Qt5学習。QtでSQLite3を使う。QSqlTableModelを使ってみた。
 
 * 最初にcreate tableしておく必要がある
+* QSqlRecordを渡してinsertできた
 
 ## 前回まで
 
