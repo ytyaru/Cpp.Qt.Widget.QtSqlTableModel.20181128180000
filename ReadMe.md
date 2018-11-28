@@ -7,8 +7,8 @@
 
 ## 前回まで
 
-* https://github.com/ytyaru/pp.Qt.Widget.QtSqliteDb.20181128160000
-* https://github.com/ytyaru/pp.Qt.Widget.QtSqliteDb.20181128120000
+* https://github.com/ytyaru/Cpp.Qt.Widget.QtSqliteDb.20181128160000
+* https://github.com/ytyaru/Cpp.Qt.Widget.QtSqliteDb.20181128120000
 * https://github.com/ytyaru/Cpp.Qt.Widget.QSql.SQLite3.Transaction.20181128070000
 * https://github.com/ytyaru/Cpp.Qt.Widget.QSql.SQLite3.Class.20181127180000
 * https://github.com/ytyaru/Cpp.Qt.Widget.QSql.SQLite3.Class.20181127170000
